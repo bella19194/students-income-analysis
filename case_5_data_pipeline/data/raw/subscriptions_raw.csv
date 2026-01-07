@@ -1,0 +1,7 @@
+user_id,plan,months,price
+1,basic,3,500
+2,premium,0,1500
+3,basic,6,500
+4,,12,1000
+5,premium,abc,1500
+6,basic,1,-500
