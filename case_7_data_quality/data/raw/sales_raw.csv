@@ -1,0 +1,6 @@
+order_id,product,quantity,price
+1,Book,2,500
+2,Pen,-1,20
+3,,3,100
+4,Notebook,abc,200
+5,Book,1,500
